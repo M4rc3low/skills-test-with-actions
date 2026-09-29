@@ -1,5 +1,13 @@
 # Python Tests with GitHub Actions
 
+<!-- portfolio-cover:start -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/M4rc3low/M4rc3low.github.io/main/assets/projects/github-actions.svg" alt="Capa conceitual ilustrativa do projeto skills-test-with-actions" width="920">
+</div>
+
+> **Capa visual ilustrativa:** representa o conceito do projeto; não é uma captura da aplicação em execução. Veja a [galeria visual completa](https://m4rc3low.github.io/projetos.html).
+<!-- portfolio-cover:end -->
+
 ![Python](https://img.shields.io/badge/Python-testing-3776AB?logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-automated_tests-0A9EDC?logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2088FF?logo=githubactions&logoColor=white)
